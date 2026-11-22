@@ -1138,6 +1138,24 @@ def main():
     runtime=Path(tempfile.mkdtemp(prefix='lumina-2-1-'))
     with zipfile.ZipFile(io.BytesIO(base64.b64decode(_PAYLOAD))) as archive:
         archive.extractall(runtime)
+    # Crédito editorial/de desenvolvimento presente no rodapé de todas as páginas.
+    home_file = runtime/'static/index.html'
+    home_html = home_file.read_text(encoding='utf-8')
+    original_footer = 'LÚMINA · Astrologia é uma ferramenta simbólica de reflexão, não previsão científica.</footer>'
+    original_sidebar = 'LÚMINA · Feito para explorar.</div>'
+    assert original_footer in home_html and original_sidebar in home_html
+    home_html = home_html.replace(original_footer, 'LÚMINA · Astrologia é uma ferramenta simbólica de reflexão, não previsão científica.<span class="developer-credit">Desenvolvedor: Kayo Araújo</span></footer>', 1)
+    home_html = home_html.replace(original_sidebar, 'LÚMINA · Feito para explorar.<span class="developer-credit">Desenvolvedor: Kayo Araújo</span></div>', 1)
+    home_file.write_text(home_html, encoding='utf-8')
+    css_file=runtime/'static/style.css'
+    css_file.write_text(css_file.read_text(encoding='utf-8')+'\n.developer-credit{display:block;margin-top:9px;letter-spacing:.04em;color:#cdb8f1;font-size:11px;font-weight:600}\n', encoding='utf-8')
+    # Também creditar as páginas públicas de horóscopo individuais.
+    app_file=runtime/'app.py'
+    app_text=app_file.read_text(encoding='utf-8')
+    public_footer='</main></body></html>"""'
+    assert app_text.count(public_footer)==1
+    app_text=app_text.replace(public_footer,'<footer class="sr" style="text-align:center;margin-top:35px;padding-top:20px;border-top:1px solid #50445b">Desenvolvedor: Kayo Araújo</footer></main></body></html>"""',1)
+    app_file.write_text(app_text, encoding='utf-8')
     sys.path.insert(0,str(runtime))
     os.chdir(runtime)
     if '--self-test' in sys.argv:

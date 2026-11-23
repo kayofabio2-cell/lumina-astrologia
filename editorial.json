@@ -7,7 +7,12 @@
       "work": "Antes de prometer a entrega, abra a agenda e confira quem precisa participar.",
       "money": "Compare o valor à vista com o total parcelado, inclusive a última prestação.",
       "action": "Deixe um intervalo entre dois compromissos.",
-      "question": "Que sim eu daria mesmo sem plateia?"
+      "question": "Que sim eu daria mesmo sem plateia?",
+      "today_story": [
+        "Uma proposta atraente também ocupa espaço na agenda.",
+        "Imagine que o convite fosse para amanhã cedo: você ainda teria vontade de aceitar?",
+        "O entusiasmo ganha força quando encontra uma data possível."
+      ]
     },
     "Touro": {
       "headline": "Uma mesa para dois ritmos",
@@ -16,7 +21,12 @@
       "work": "Experimente fazer a tarefa mais delicada antes de abrir a caixa de entrada.",
       "money": "Confira se o preço da embalagem grande compensa por unidade.",
       "action": "Tire da mesa um objeto que sempre atrapalha.",
-      "question": "O que torna minha companhia confortável?"
+      "question": "O que torna minha companhia confortável?",
+      "today_story": [
+        "Um encontro simples pode depender mais da atenção de quem chega do que do lugar escolhido.",
+        "Observe quem consegue sentar ao seu lado sem disputar o silêncio.",
+        "Talvez você prefira prolongar um café a marcar três programas seguidos."
+      ]
     },
     "Gêmeos": {
       "headline": "A mensagem que ficou pela metade",
@@ -25,7 +35,12 @@
       "work": "Troque uma sequência de mensagens por uma pergunta que esclareça o pedido.",
       "money": "Procure no extrato a descrição daquela cobrança que você ainda não reconheceu.",
       "action": "Escreva o que gostaria de perguntar sem justificar a pergunta.",
-      "question": "Qual detalhe mudaria minha interpretação?"
+      "question": "Qual detalhe mudaria minha interpretação?",
+      "today_story": [
+        "Leia em voz alta aquela mensagem que pareceu perfeita na tela.",
+        "Às vezes o ouvido percebe uma cobrança que os olhos deixaram passar.",
+        "Uma palavra mais precisa poupa uma longa explicação depois."
+      ]
     },
     "Câncer": {
       "headline": "O lugar de cada um",
@@ -34,7 +49,12 @@
       "work": "Se alguém pedir ajuda, esclareça onde termina sua parte para não herdar a tarefa inteira.",
       "money": "Separe os gastos da casa dos favores que você decidiu fazer por carinho.",
       "action": "Divida uma pequena responsabilidade antes do fim do dia.",
-      "question": "De que ajuda eu sentiria falta se parasse de oferecê-la?"
+      "question": "De que ajuda eu sentiria falta se parasse de oferecê-la?",
+      "today_story": [
+        "Olhe para a tarefa doméstica que todos percebem apenas quando fica por fazer.",
+        "Há trabalho também em notar que alguma coisa acabou e lembrar a hora de repor.",
+        "Dividir essa atenção pode ser mais generoso do que simplesmente oferecer ajuda."
+      ]
     },
     "Leão": {
       "headline": "Mostrar o rascunho",
@@ -43,7 +63,12 @@
       "work": "Mostre uma versão incompleta a quem saiba fazer uma boa pergunta sobre ela.",
       "money": "Antes de comprar algo para uma ocasião, veja o que já funciona no seu armário.",
       "action": "Escolha um detalhe do seu projeto para apresentar.",
-      "question": "Que parte do meu trabalho merece luz própria?"
+      "question": "Que parte do meu trabalho merece luz própria?",
+      "today_story": [
+        "Um rascunho guarda algo que uma apresentação final costuma esconder: as alternativas que ainda estão abertas.",
+        "Escolha alguém que se interesse pelo processo e mostre justamente a parte que falta resolver.",
+        "Uma reação espontânea pode revelar qual detalhe vale desenvolver."
+      ]
     },
     "Virgem": {
       "headline": "A margem também conta",
@@ -52,7 +77,12 @@
       "work": "Estime o tempo de revisão separadamente do tempo de execução.",
       "money": "Anote a data de renovação do serviço que você contratou em promoção.",
       "action": "Reserve dez minutos para encerrar uma pendência curta.",
-      "question": "Onde estou contando duas vezes com a mesma hora?"
+      "question": "Onde estou contando duas vezes com a mesma hora?",
+      "today_story": [
+        "O espaço em branco entre dois horários também pertence a você.",
+        "Repare quanto tempo se perde quando uma tarefa começa antes que a anterior tenha terminado de verdade.",
+        "Concluir com calma pode ser a escolha mais econômica da manhã."
+      ]
     },
     "Libra": {
       "headline": "Um acordo que cabe nos dois",
@@ -61,7 +91,12 @@
       "work": "Registre o critério que vai orientar uma decisão em equipe antes de votar.",
       "money": "Numa saída em grupo, acertar a divisão antes da conta poupa constrangimento.",
       "action": "Dê nome a uma preferência sua que ficou implícita.",
-      "question": "Qual concessão eu faria com gosto?"
+      "question": "Qual concessão eu faria com gosto?",
+      "today_story": [
+        "Há convites que recebem um sim automático porque ninguém quer dificultar o encontro.",
+        "Experimente dizer a sua preferência enquanto ainda há tempo para escolher.",
+        "A conversa costuma ficar mais leve quando ninguém precisa interpretar pistas."
+      ]
     },
     "Escorpião": {
       "headline": "O que ficou subentendido",
@@ -70,7 +105,12 @@
       "work": "Peça o documento de origem de um número que circula sem explicação.",
       "money": "Verifique se aquele reembolso prometido entrou na conta de fato.",
       "action": "Substitua uma suposição por uma pergunta discreta.",
-      "question": "O que eu sei por experiência e o que apenas deduzi?"
+      "question": "O que eu sei por experiência e o que apenas deduzi?",
+      "today_story": [
+        "Uma pausa longa no telefone pode ser distração, cansaço ou apenas falta de palavras.",
+        "Recupere o que a pessoa efetivamente disse antes de preencher as lacunas.",
+        "Uma pergunta curta pode devolver à conversa uma nuance que a memória apagou."
+      ]
     },
     "Sagitário": {
       "headline": "Desviar uma rua",
@@ -79,7 +119,12 @@
       "work": "Teste uma ferramenta nova numa cópia do arquivo antes de mudar seu processo.",
       "money": "Inclua transporte e alimentação ao estimar o custo daquele passeio.",
       "action": "Volte por um caminho diferente e observe uma fachada.",
-      "question": "Que curiosidade cabe na tarde de hoje?"
+      "question": "Que curiosidade cabe na tarde de hoje?",
+      "today_story": [
+        "Uma rua conhecida muda quando alguém aponta o detalhe que você nunca reparou.",
+        "Deixe uma pessoa escolher a próxima esquina ou contar por que gosta daquele lugar.",
+        "A novidade de hoje pode caber no trajeto de sempre."
+      ]
     },
     "Capricórnio": {
       "headline": "Uma ideia sai do caderno",
@@ -88,7 +133,12 @@
       "work": "Leve um exemplo concreto à reunião. Um esboço dá aos colegas algo específico para comentar.",
       "money": "Defina quanto cabe no orçamento do seu hobby antes de escolher o material.",
       "action": "Dedique quinze minutos ao primeiro protótipo.",
-      "question": "Qual parte dessa ideia eu faria mesmo sem reconhecimento?"
+      "question": "Qual parte dessa ideia eu faria mesmo sem reconhecimento?",
+      "today_story": [
+        "Pense na última vez em que perdeu a noção do tempo por prazer.",
+        "Antes de transformar aquela vontade em mais uma meta, separe um pedaço da tarde para brincar com ela.",
+        "Um caderno aberto e uma tentativa torta já dão forma ao que era só intenção."
+      ]
     },
     "Aquário": {
       "headline": "Quem ainda não falou",
@@ -97,7 +147,12 @@
       "work": "Ofereça um canal escrito para recolher sugestões depois da discussão.",
       "money": "Se várias pessoas vão pagar juntas, deixe visíveis os valores já recebidos.",
       "action": "Procure a opinião de quem usa o resultado do seu trabalho.",
-      "question": "Que voz faz falta nesta decisão?"
+      "question": "Que voz faz falta nesta decisão?",
+      "today_story": [
+        "Num grupo, quem responde primeiro também costuma definir os termos da conversa.",
+        "Vale ouvir quem precisou de alguns minutos para organizar a própria ideia.",
+        "Uma observação tardia pode mudar a pergunta que parecia encerrada."
+      ]
     },
     "Peixes": {
       "headline": "Dar contorno ao que se sente",
@@ -106,7 +161,12 @@
       "work": "Use um exemplo de antes e depois para explicar uma proposta abstrata.",
       "money": "Fotografe o recibo de uma despesa compartilhada enquanto ele ainda está à mão.",
       "action": "Guarde uma frase que traduziu bem seu dia.",
-      "question": "Que imagem explica melhor o que estou tentando dizer?"
+      "question": "Que imagem explica melhor o que estou tentando dizer?",
+      "today_story": [
+        "Quando é difícil explicar o que incomoda, procure o momento exato em que o humor mudou.",
+        "Descreva o gesto, o lugar ou a frase sem tentar descobrir de imediato o motivo.",
+        "Quem escuta uma cena tem por onde começar a entender você."
+      ]
     }
   }
 }

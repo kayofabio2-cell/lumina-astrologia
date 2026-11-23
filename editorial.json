@@ -3,9 +3,9 @@
     "Áries": {
       "headline": "O preço de topar na hora",
       "note": "Uma resposta rápida pode esconder uma dúvida legítima. Dê a ela alguns minutos de atenção.",
-      "love": "Se um convite chegar em cima da hora, diga quando você realmente gostaria de encontrar a pessoa.",
-      "work": "Antes de prometer a entrega, abra a agenda e confira quem precisa participar.",
-      "money": "Compare o valor à vista com o total parcelado, inclusive a última prestação.",
+      "love": "Um convite de última hora pode ser gostoso. Você iria mesmo se a resposta pudesse esperar até amanhã?",
+      "work": "Na agenda, uma tarde parece livre até você incluir o tempo de preparação. Quanto sobra de verdade?",
+      "money": "À vista ou parcelado? Coloque os dois totais lado a lado antes de olhar o tamanho da prestação.",
       "action": "Deixe um intervalo entre dois compromissos.",
       "question": "Que sim eu daria mesmo sem plateia?",
       "today_story": [
@@ -17,9 +17,9 @@
     "Touro": {
       "headline": "Uma mesa para dois ritmos",
       "note": "Uma cadeira puxada para perto pode dizer mais do que um plano impecável.",
-      "love": "Pergunte qual foi a melhor parte do dia de quem está com você e dê tempo para a história inteira.",
-      "work": "Experimente fazer a tarefa mais delicada antes de abrir a caixa de entrada.",
-      "money": "Confira se o preço da embalagem grande compensa por unidade.",
+      "love": "Tem dias em que carinho é alguém deixar você terminar uma história sem interromper.",
+      "work": "A tarefa que exige silêncio merece aquela hora em que as mensagens ainda não começaram a chegar.",
+      "money": "Na etiqueta pequena está o dado que interessa: o preço por quilo. A embalagem maior pode perder a disputa.",
       "action": "Tire da mesa um objeto que sempre atrapalha.",
       "question": "O que torna minha companhia confortável?",
       "today_story": [
@@ -31,9 +31,9 @@
     "Gêmeos": {
       "headline": "A mensagem que ficou pela metade",
       "note": "Talvez o assunto que mereça espaço esteja justamente no trecho que você apagou antes de enviar.",
-      "love": "Retome uma piada ou lembrança que só vocês dois entendem. Veja aonde a conversa vai.",
-      "work": "Troque uma sequência de mensagens por uma pergunta que esclareça o pedido.",
-      "money": "Procure no extrato a descrição daquela cobrança que você ainda não reconheceu.",
+      "love": "“Lembrei da gente quando vi isso.” Uma memória compartilhada abre uma conversa que um simples oi talvez não alcance.",
+      "work": "Dois colegas podem sair da mesma reunião com pedidos diferentes na cabeça. Uma pergunta por escrito ajuda a descobrir qual deles vale.",
+      "money": "Aquela sigla estranha no extrato merece um nome antes de virar motivo de preocupação.",
       "action": "Escreva o que gostaria de perguntar sem justificar a pergunta.",
       "question": "Qual detalhe mudaria minha interpretação?",
       "today_story": [
@@ -45,9 +45,9 @@
     "Câncer": {
       "headline": "O lugar de cada um",
       "note": "Quando toda a organização fica com uma pessoa, até um encontro gostoso começa a pesar.",
-      "love": "Combine quem escolhe o passeio desta vez e deixe a outra pessoa surpreender.",
-      "work": "Se alguém pedir ajuda, esclareça onde termina sua parte para não herdar a tarefa inteira.",
-      "money": "Separe os gastos da casa dos favores que você decidiu fazer por carinho.",
+      "love": "De quem foi a ideia dos últimos três encontros? Talvez seja gostoso entregar a escolha desta vez.",
+      "work": "Ajudar por dez minutos é diferente de assumir a tarefa inteira. Combine até onde vai sua participação.",
+      "money": "Entre a compra da casa e o presente feito por carinho existe uma diferença que vale registrar.",
       "action": "Divida uma pequena responsabilidade antes do fim do dia.",
       "question": "De que ajuda eu sentiria falta se parasse de oferecê-la?",
       "today_story": [
@@ -59,9 +59,9 @@
     "Leão": {
       "headline": "Mostrar o rascunho",
       "note": "Existe uma diferença entre gostar de uma ideia e querer defendê-la diante de todo mundo.",
-      "love": "Experimente um elogio que descreva algo que você percebeu e que costuma passar despercebido.",
-      "work": "Mostre uma versão incompleta a quem saiba fazer uma boa pergunta sobre ela.",
-      "money": "Antes de comprar algo para uma ocasião, veja o que já funciona no seu armário.",
+      "love": "Há elogios que só você poderia fazer: um jeito de rir, um cuidado pequeno, um detalhe que quase ninguém viu.",
+      "work": "Sobre a mesa, um esboço pode render comentários melhores do que uma apresentação já fechada.",
+      "money": "O armário talvez já tenha uma boa resposta para o próximo evento. Monte o conjunto antes de pesquisar preços.",
       "action": "Escolha um detalhe do seu projeto para apresentar.",
       "question": "Que parte do meu trabalho merece luz própria?",
       "today_story": [
@@ -73,9 +73,9 @@
     "Virgem": {
       "headline": "A margem também conta",
       "note": "Um plano apertado parece eficiente até o primeiro imprevisto. Hoje vale examinar os espaços entre as tarefas.",
-      "love": "Se o encontro mudou de horário, pergunte se o novo combinado continua bom para os dois.",
-      "work": "Estime o tempo de revisão separadamente do tempo de execução.",
-      "money": "Anote a data de renovação do serviço que você contratou em promoção.",
+      "love": "Mudou o horário do encontro. Ficou bom para vocês dois ou só deu para encaixar?",
+      "work": "A revisão também consome horas. Reserve esse espaço enquanto o prazo ainda está em discussão.",
+      "money": "Quando acaba o desconto da assinatura? Essa data diz mais sobre o custo do serviço do que o primeiro boleto.",
       "action": "Reserve dez minutos para encerrar uma pendência curta.",
       "question": "Onde estou contando duas vezes com a mesma hora?",
       "today_story": [
@@ -87,9 +87,9 @@
     "Libra": {
       "headline": "Um acordo que cabe nos dois",
       "note": "Um acordo pode soar elegante no papel e ainda assim deixar alguém desconfortável.",
-      "love": "Ofereça duas opções de encontro e diga de qual você gosta mais.",
-      "work": "Registre o critério que vai orientar uma decisão em equipe antes de votar.",
-      "money": "Numa saída em grupo, acertar a divisão antes da conta poupa constrangimento.",
+      "love": "“Eu prefiro o lugar mais tranquilo.” Uma preferência dita em voz alta facilita o convite dos dois lados.",
+      "work": "Antes da votação, o grupo precisa saber o que pesa mais: prazo, custo ou qualidade da entrega.",
+      "money": "Dividir igualmente funciona melhor quando todos combinam antes de fazer o pedido.",
       "action": "Dê nome a uma preferência sua que ficou implícita.",
       "question": "Qual concessão eu faria com gosto?",
       "today_story": [
@@ -101,9 +101,9 @@
     "Escorpião": {
       "headline": "O que ficou subentendido",
       "note": "O silêncio depois de uma pergunta comporta mais interpretações do que parece.",
-      "love": "Se uma resposta curta mexeu com você, confira o contexto antes de reler a conversa inteira.",
-      "work": "Peça o documento de origem de um número que circula sem explicação.",
-      "money": "Verifique se aquele reembolso prometido entrou na conta de fato.",
+      "love": "Uma mensagem curta tem pouco espaço para mostrar o tom de voz. A conversa ao vivo pode mudar sua primeira impressão.",
+      "work": "Na planilha, aquele número veio de uma medição ou de uma estimativa? A resposta muda a decisão.",
+      "money": "Reembolso prometido e saldo disponível são coisas diferentes. Confira o lançamento antes de contar com ele.",
       "action": "Substitua uma suposição por uma pergunta discreta.",
       "question": "O que eu sei por experiência e o que apenas deduzi?",
       "today_story": [
@@ -115,9 +115,9 @@
     "Sagitário": {
       "headline": "Desviar uma rua",
       "note": "Uma pequena mudança de percurso pode render uma descoberta sem exigir uma grande virada.",
-      "love": "Convide alguém a mostrar um lugar da cidade que tenha uma história pessoal.",
-      "work": "Teste uma ferramenta nova numa cópia do arquivo antes de mudar seu processo.",
-      "money": "Inclua transporte e alimentação ao estimar o custo daquele passeio.",
+      "love": "Qual lugar da cidade guarda uma boa história de quem você gosta? Deixe essa pessoa guiar o passeio.",
+      "work": "A cópia de um arquivo é um ótimo lugar para experimentar a ferramenta que você acabou de descobrir.",
+      "money": "O ingresso cabe no bolso. E a volta para casa depois que o transporte mais barato parar de circular?",
       "action": "Volte por um caminho diferente e observe uma fachada.",
       "question": "Que curiosidade cabe na tarde de hoje?",
       "today_story": [
@@ -129,9 +129,9 @@
     "Capricórnio": {
       "headline": "Uma ideia sai do caderno",
       "note": "Escolha um desejo que você transformou cedo demais em obrigação. O que restou do prazer inicial?",
-      "love": "Prepare um encontro em torno de algo de que vocês riem juntos, sem tentar impressionar.",
-      "work": "Leve um exemplo concreto à reunião. Um esboço dá aos colegas algo específico para comentar.",
-      "money": "Defina quanto cabe no orçamento do seu hobby antes de escolher o material.",
+      "love": "O que fez vocês rirem da última vez? Um encontro em torno dessa lembrança pode ser simples e ainda assim ter a cara dos dois.",
+      "work": "Em vez de explicar o projeto inteiro, leve uma amostra. Um colega pode apontar no papel exatamente o que não entendeu.",
+      "money": "Seu hobby merece espaço no orçamento. Escolher um limite antes dos materiais deixa mais liberdade para brincar com o que já tem.",
       "action": "Dedique quinze minutos ao primeiro protótipo.",
       "question": "Qual parte dessa ideia eu faria mesmo sem reconhecimento?",
       "today_story": [
@@ -143,9 +143,9 @@
     "Aquário": {
       "headline": "Quem ainda não falou",
       "note": "Uma boa ideia de grupo às vezes chega depois que a reunião termina.",
-      "love": "Inclua a pessoa quieta na conversa com uma pergunta aberta, sem colocá-la no centro das atenções.",
-      "work": "Ofereça um canal escrito para recolher sugestões depois da discussão.",
-      "money": "Se várias pessoas vão pagar juntas, deixe visíveis os valores já recebidos.",
+      "love": "Nem todo mundo gosta de falar no centro da roda. Uma conversa a dois pode fazer alguém se sentir mais à vontade.",
+      "work": "Depois da reunião, às vezes chega a contribuição de quem precisava de silêncio para pensar. Deixe aberto um canal para recebê-la.",
+      "money": "Num presente coletivo, a lista de quem já pagou evita cobrar duas vezes a mesma pessoa.",
       "action": "Procure a opinião de quem usa o resultado do seu trabalho.",
       "question": "Que voz faz falta nesta decisão?",
       "today_story": [
@@ -157,9 +157,9 @@
     "Peixes": {
       "headline": "Dar contorno ao que se sente",
       "note": "Uma sensação vaga fica mais fácil de comunicar quando você encontra uma cena concreta para descrevê-la.",
-      "love": "Conte um momento em que você se sentiu cuidado em vez de esperar que a outra pessoa adivinhe.",
-      "work": "Use um exemplo de antes e depois para explicar uma proposta abstrata.",
-      "money": "Fotografe o recibo de uma despesa compartilhada enquanto ele ainda está à mão.",
+      "love": "O café que alguém guardou para você talvez diga mais sobre cuidado do que uma grande declaração. Conte por que se lembra dele.",
+      "work": "Como era antes e como ficaria depois? Duas imagens podem explicar a proposta melhor do que um parágrafo de adjetivos.",
+      "money": "Um recibo de despesa dividida se perde fácil. A foto tirada no balcão pode evitar uma conversa confusa mais tarde.",
       "action": "Guarde uma frase que traduziu bem seu dia.",
       "question": "Que imagem explica melhor o que estou tentando dizer?",
       "today_story": [
